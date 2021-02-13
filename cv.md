@@ -15,3 +15,11 @@
 |       2012 - 2017| Belarusian State Medical University|       Dentistry   |   Dental physician. Dental Surgery  |
 | 09.2019 - 10.2019|                         BelMAPE    |    Surgery        |     Selected surgery subjects       |
 
+## Hard Skills
+- HTML/CSS/BrowsersAPIs
+- JS/React
+- C
+
+## Proven work experience:
+- 2013-2015 "WebStudio flowline.by" front-end-developer
+
