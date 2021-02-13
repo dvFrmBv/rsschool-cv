@@ -23,3 +23,8 @@
 ## Proven work experience:
 - 2013-2015 "WebStudio flowline.by" front-end-developer
 
+# Soft Skills
+- good at p2p communitation
+
+## English
+    A2
