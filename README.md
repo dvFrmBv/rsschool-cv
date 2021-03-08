@@ -5,4 +5,4 @@ Basic example of Markdown/HTML-based CV of Junior Developer
 https://dvFrmBv.github.io/rsschool-cv/cv
 
 ## HTML/CSS version:
-*Work in progress*
+https://dvFrmBv.github.io/rsschool-cv/
