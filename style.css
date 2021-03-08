@@ -106,3 +106,8 @@ aside summary {
     color: bisque;
     background-color: rgb(110, 110, 83);
 }
+
+#rss-logo {
+    height: auto;
+    width: 50px;
+}
