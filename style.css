@@ -12,18 +12,33 @@ h2,
 h3 {
     text-transform: uppercase;
 }
-.main-wrapper {
+#main-wrapper {
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
     flex-wrap: nowrap;
     color: aquamarine;
 }
 
 .main-navbar {
+    text-align: center;
     color: bisque;
     background-color: #333;
+}
+.main-navbar li {
+    display: inline-block;
 }
 .main-navbar a,
 .main-navbar a:visited{
     color: bisque;
+}
+
+.cv-info {
+    margin-top: 0px;
+    display: block;
+    color: black;
+    background-color: aliceblue; 
+    width: 600px;   
+
 }
